@@ -42,7 +42,7 @@ To install PyViz and its dependencies in your Conda dev environment, complete th
 
 As per the Elbow curve, K=4 seems to be a good model . 
 
-![](snapshots/classification_matrix.png)
+![](https://github.com/ArunaBisht/Crypto_market/blob/main/snapshots/elbow_curve.PNG)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
