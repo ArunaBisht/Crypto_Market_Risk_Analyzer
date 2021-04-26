@@ -51,11 +51,13 @@ Variance
 
 
 As per the Elbow curve, K=4 seems to be a good model . 
+
 ![](snapshots/classification_matrix.png)
 
 ![](snapshots/elbow_curve.PNG)
 
 ![](snapshots/comparision.png)
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 We developed two models using cluster k=4 and K=5. The plot on the left is created using k=4 and plot on right using k=5
@@ -65,6 +67,7 @@ We developed two models using cluster k=4 and K=5. The plot on the left is creat
 ![](snapshots/cluster_4.PNG)
 
 ![](snapshots/cluster_5.PNG)
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 Analysis - K = 4 seems good, because in elbow curve that was an optimum number. Also, when K=5, the groups are overlapped with each other and not very segregated in comparision to K=4. Also, since it's the least value between 2 models. Hence, K=4 is better.
 
