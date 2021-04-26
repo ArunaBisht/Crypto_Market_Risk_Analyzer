@@ -50,7 +50,7 @@ Variance
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-As per the Elbow curve, K=4 seems to be a good model . 
+As per the Elbow curve, K=4 seems to be a good model . .
 
 ![](snapshots/classification_matrix.PNG)
 
