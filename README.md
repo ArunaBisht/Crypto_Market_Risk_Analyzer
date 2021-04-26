@@ -45,6 +45,8 @@ To install PyViz and its dependencies in your Conda dev environment, complete th
 
 Variance
 
+![](snapshots/intro_10.PNG)
+
 ![](snapshots/variance.PNG)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
