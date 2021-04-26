@@ -1,6 +1,6 @@
 # Crypto market
 
-![](snapshots/intro_10.png)
+![](snapshots/intro_10.PNG)
 
 In this project we are assembling investment portfolios that are based on cryptocurrencies. Instead of basing out of only returns and volatility, this includes other factors that might impact the crypto market—leading to better performance for your portfolio.
 
