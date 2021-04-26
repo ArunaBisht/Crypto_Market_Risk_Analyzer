@@ -21,7 +21,7 @@ Download Anaconda for your operating system and the latest Python version, run t
 
 Before running the application first install the following dependencies.
 
-```python
+python
 
 import pandas as pd
 import hvplot.pandas
@@ -44,8 +44,6 @@ To install PyViz and its dependencies in your Conda dev environment, complete th
 ## Usage
 
 Variance
-
-![](snapshots/intro_10.PNG)
 
 ![](snapshots/variance.PNG)
 
